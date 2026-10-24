@@ -10,6 +10,4 @@
 
 ## Démonstration du projet
 
-## Démonstration du projet
-
 [▶️ Regarder la vidéo]([<im/Video Project 1.mp4>](https://drive.google.com/file/d/17X2cbJM7r4oT6hlzlsrRwHPwC8vQbq0m/view?usp=sharing))
